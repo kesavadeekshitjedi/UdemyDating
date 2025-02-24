@@ -1,0 +1,6 @@
+@UdemyDating.WebAPI_HostAddress = http://localhost:5150
+
+GET {{UdemyDating.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
